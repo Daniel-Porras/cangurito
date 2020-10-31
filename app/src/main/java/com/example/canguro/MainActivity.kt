@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         if (4==4 && 5!=5){
             println("Hola como estas")
         }
+        //hola como estas
+        var hola="hola como estas"
     }
 }
