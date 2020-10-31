@@ -13,5 +13,6 @@ class MainActivity : AppCompatActivity() {
         //hola como estas
         var hola="hola como estas"
         println("Esto lo hice en cangurito")
+        val holacc="sera que si sirve a distancia?"
     }
 }
